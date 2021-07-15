@@ -1,0 +1,32 @@
+<body>
+        <p style="font-size:large"> <strong>2.수강한 과목</strong></p>
+        <table border = "1">
+            <tr>
+                <td></td>
+                <th>1학기</th>
+                <th>2학기</th>
+            </tr>
+            <tr>
+                <th>1학년</th>
+                <td>미분적분학(1) <br> 물리학및실험(1) <br>
+                실용영어읽기쓰기<br>중국어(1) <br>실용영어회화 <br>
+                논리와사회 <br> 과학기술과사회 <br> Computational Thinking</td>
+                <td>미분적분학(2) <br> 물리학및실험(2) <br>
+                확률과통계 <br> 일반화학및실험 <br> 창의공학설계</td>
+            </tr>
+            <tr>
+                <th>2학년</th>
+                <td>공학수학(1) <br> 전기자기학(1) <br> 회로이론(1)
+                <br> 컴퓨터프로그래밍 <br> 기초전기전자실험 <br> 운동과건강</td>
+                <td>공학수학(2) <br> 회로이론(2) <br> 논리회로 <br> 전기자기학(2)
+                <br> 신호및시스템 <br> 응용전기전자실험</td>
+            </tr>
+            <tr>
+                <th>3학년</th>
+                <td>취창업진로설계 <br> 반도체공학 <br> 마이크로파공학
+                <br> 제어공학 <br> 전자회로(1) <br> 마이크로프로세서 <br> 
+                디지털시스템설계</td>
+                <td>들을 예정</td>
+            </tr>
+        </table>
+    </body>
