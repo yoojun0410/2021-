@@ -12,7 +12,7 @@
 
 No|일시|주제|파일|
 ----|----|----|----|
-1|08.04(수)|Idea 생각해서 적기|[idea.md](yoojun0410/2021_webprogramming/background/idea.md)
+1|08.04(수)|Idea 생각해서 적기|[idea.md](./background/idea.md)
 
 --------------
 # :book: 학습자료
