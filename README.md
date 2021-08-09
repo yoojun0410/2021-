@@ -14,7 +14,7 @@
 No|일시|주제|파일|
 ----|----|----|----|
 1|08.04(수)|Idea 생각해서 적기|[idea.md](./background/idea.md)
-2|08.08(일)|Idea 기능종합 & 진행방식정하기 |
+2|08.08(일)|Idea 기능종합 & 진행방식정하기 |[1주차_정리](./background/1주차_최종정리.md)
 3|08.11(수)|맡은 파트 코드 작성하기|
 --------------
 
@@ -24,7 +24,8 @@ No|일시|주제|파일|
 
 To-do|Challenge
 --|--
-;|<img scr="./background/challenge.jpg" width="500" height="500">
+;|<img src = "./background/challenge.jpg" width="500" height="500">
+
 
 
 # :book: 학습자료
